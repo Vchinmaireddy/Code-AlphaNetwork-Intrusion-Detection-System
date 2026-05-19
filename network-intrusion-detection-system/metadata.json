@@ -1,0 +1,6 @@
+{
+  "name": "Network Intrusion Detection System",
+  "description": "A real-time Network Intrusion Detection System with live traffic monitoring, rule-based threat detection, and interactive security dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
