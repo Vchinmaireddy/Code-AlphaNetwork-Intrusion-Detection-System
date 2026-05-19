@@ -167,6 +167,5 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-
-**Your Name**  
+vempalla chinmai reddy
 GitHub: https://github.com/your-username
